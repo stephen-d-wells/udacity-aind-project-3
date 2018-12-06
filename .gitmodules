@@ -1,0 +1,3 @@
+[submodule "artificial-intelligence"]
+	path = artificial-intelligence
+	url = https://github.com/udacity/artificial-intelligence
