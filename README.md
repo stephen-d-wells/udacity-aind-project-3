@@ -5,7 +5,7 @@ Isolation.
 Herein is contained a drop-in replacement for Udacity's
  *Adversarial Game Playing Agent*, the third project in 
  the 
-[Artificial Intelligence Nanodegree](https://classroom.udacity.com/nanodegrees/nd898) 
+[Artificial Intelligence Nanodegree](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898) 
 program.
 
 The original code can be found 
@@ -18,7 +18,7 @@ to play Isolation.
 ## Installation / Usage
 
 ```
-$ git clone https://github.com/stephen.d.wells/udacity-aind-project-3
+$ git clone https://github.com/stephen-d-wells/udacity-aind-project-3
 $ cd udacity-aind-project-3
 ```
 
@@ -44,7 +44,7 @@ $ cp ../../../my_custom_player.py .
 
 Contributions are encouraged.
 
-1. Fork the [repository](https://github.com/stephen.d.wells/udacity-aind-project-3).
+1. Fork the [repository](https://github.com/stephen-d-wells/udacity-aind-project-3).
 2. Create a [topic branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/).
 3. Implement your feature or bug fix.
 4. Add, commit, and push your changes.
